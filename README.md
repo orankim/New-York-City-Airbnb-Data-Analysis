@@ -14,3 +14,7 @@ Google BigQuery/SQL
 ### Data
 Inside Airbnb - New York City, New York, United States
 http://insideairbnb.com/get-the-data/
+
+### Memo
+nyc-data21 : Project ID in Google BigQuery
+NYC_Airbnb : Dataset name
